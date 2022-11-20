@@ -1,4 +1,4 @@
-package com.counter;
+package com.jahanzeb.dev.counter;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
