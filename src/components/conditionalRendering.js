@@ -13,3 +13,4 @@ export const If_Setting = ({ condition1, condition2, firstComponent }) => {
     return condition1 ? firstComponent : condition2 ? firstComponent : null
 }
 
+

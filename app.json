@@ -1,4 +1,7 @@
 {
   "name": "counter",
-  "displayName": "counter"
+  "displayName": "counter",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-4551497516413603~7229983752"
+  }
 }
